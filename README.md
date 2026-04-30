@@ -2,6 +2,7 @@
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 🐯 Introduction
+
 DiscordTiger is a high-performance terminal user interface (TUI) designed for advanced server management, audit-log testing, and stress-testing server infrastructure. By utilizing a hybrid engine of for bot-level integration and raw for user-level API interaction, DiscordTiger provides a comprehensive suite of 74 operational tools.discord.pyrequests
 
 🛠 Features
