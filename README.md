@@ -12,13 +12,6 @@ Silent Configuration: Automatically assigns credentials from a local file to str
 
 Dynamic TUI: Features an immersive Green Matrix rain sequence followed by a red-themed ASCII command center.
 
-Tiered Operations:
-
-Nuke [01-25]: Total environmental reset and purge modules.
-
-Raid [26-50]: Communication and spam stress-testing infrastructure.
-
-ULTRA [51-74]: The most aggressive suite of tools utilizing high-frequency API requests for maximum server impact.
 
 🚀 Installation & Setup
 Prerequisites
