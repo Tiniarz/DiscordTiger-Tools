@@ -40,6 +40,4 @@ Execute: Run the script via your terminal:
 Bash
 python DiscordTiger.py
 ⚖️ Ethical Use & Disclaimer
-This framework is provided for educational purposes and authorized testing only. The developers are not responsible for any misuse, account suspensions, or damages caused by the use of this software. By executing this script, you acknowledge that you are using it in a controlled, private environment (VM/Private Server).
-
-Developed for the Beta Testing Phase - 2026
+This framework is provided for educational purposes and authorized testing only. The developers are not responsible for any misuse, account suspensions, or damages caused by the use of this software.
